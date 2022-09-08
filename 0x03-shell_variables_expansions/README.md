@@ -8,3 +8,4 @@ Task6:Create a script that creates a new local variable.
 tak 7: Create a script that creates a new global variable.
  task 8: Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 task 9: Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+task10: a script that displays the result of BREATH to the power LOVE
